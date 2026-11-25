@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|C:\\Users\\Alexandre\\Proj_Web_Reserva\\telaaluno\\agendarmentoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|solutionrelative:telaaluno\\agendarmentoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|c:\\users\\alexandre\\proj_web_reserva\\telaaluno\\confirmaagendamento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|solutionrelative:telaaluno\\confirmaagendamento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|c:\\users\\alexandre\\proj_web_reserva\\telaaluno\\confirmaagendamento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|solutionrelative:telaaluno\\confirmaagendamento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|c:\\users\\alexandre\\proj_web_reserva\\telaaluno\\agendarmentoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|solutionrelative:telaaluno\\agendarmentoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|C:\\Users\\Alexandre\\Proj_Web_Reserva\\telaaluno\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02A92D9B-F1D4-4740-B377-4DD7D9A65918}|TelaAluno\\TelaAluno.csproj|solutionrelative:telaaluno\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmaAgendamento.aspx",
+              "DocumentMoniker": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\ConfirmaAgendamento.aspx",
+              "RelativeDocumentMoniker": "TelaAluno\\ConfirmaAgendamento.aspx",
+              "ToolTip": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\ConfirmaAgendamento.aspx",
+              "RelativeToolTip": "TelaAluno\\ConfirmaAgendamento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-25T12:24:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmaAgendamento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\ConfirmaAgendamento.aspx.cs",
+              "RelativeDocumentMoniker": "TelaAluno\\ConfirmaAgendamento.aspx.cs",
+              "ToolTip": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\ConfirmaAgendamento.aspx.cs",
+              "RelativeToolTip": "TelaAluno\\ConfirmaAgendamento.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T12:24:01.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgendarMentoria.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\AgendarMentoria.aspx.cs",
+              "RelativeDocumentMoniker": "TelaAluno\\AgendarMentoria.aspx.cs",
+              "ToolTip": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\AgendarMentoria.aspx.cs",
+              "RelativeToolTip": "TelaAluno\\AgendarMentoria.aspx.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T00:44:42.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgendarMentoria.aspx",
+              "DocumentMoniker": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\AgendarMentoria.aspx",
+              "RelativeDocumentMoniker": "TelaAluno\\AgendarMentoria.aspx",
+              "ToolTip": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\AgendarMentoria.aspx",
+              "RelativeToolTip": "TelaAluno\\AgendarMentoria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-25T00:13:36.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\Web.config",
+              "RelativeDocumentMoniker": "TelaAluno\\Web.config",
+              "ToolTip": "C:\\Users\\Alexandre\\Proj_Web_Reserva\\TelaAluno\\Web.config",
+              "RelativeToolTip": "TelaAluno\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-24T12:48:22.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
